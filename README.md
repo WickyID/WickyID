@@ -24,14 +24,6 @@ I am a **Fresh Grad Developer** based in Malang, Indonesia. My focus is on build
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=WickyID&show_icons=true&theme=tokyonight" alt="WickyID Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WickyID&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 📫 Connect with me
 - **Location:** Malang, Indonesia 🇮🇩
 - **Focus:** Open for freelance opportunities and technical collaborations.
