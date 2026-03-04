@@ -104,12 +104,16 @@ Production-grade e-commerce engine built with Go and SNAPPY architecture princip
 
 ---
 
+---
+
 ## 📊 Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WickyID&show_icons=true&hide_border=true&bg_color=0f172a&title_color=ffffff&text_color=cbd5e1&icon_color=22c55e" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=WickyID&hide_border=true&background=0f172a&ring=22c55e&fire=22c55e&currStreakLabel=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WickyID&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WickyID&theme=github-dark&hide_border=true" />
 </p>
 
 ---
