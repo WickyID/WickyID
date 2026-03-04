@@ -1,6 +1,6 @@
 # WickyID
 
-Production is temporary. Architecture is permanent.  
+Production is temporary. Architecture is permanent.
 Systems > Frameworks
 
 <br/>
@@ -15,11 +15,16 @@ Systems > Frameworks
 
 That lives at https://wicky.id
 
-This is the lab.
+**This is the lab.**
 
-Where systems are profiled before they are praised.  
-Where dependencies must justify their existence.  
-Where 94 Lighthouse is structural failure.
+Where systems are profiled before they are praised.
+Where dependencies must justify their existence.
+Where a 94 Lighthouse score is considered structural failure.
+
+<div align="center">
+  <sub>Lighthouse enforcement active.</sub><br/>
+  <img src="https://64.media.tumblr.com/93e874cd1c6e9a03655053bfd2b43bed/tumblr_p6pcj9Jv7R1wb9j6xo5_400.gif" width="380" />
+</div>
 
 ⰐⰑ ⰋⰐⰕⰓⰖⰔⰋⰑⰐ
 
@@ -27,12 +32,12 @@ Where 94 Lighthouse is structural failure.
 
 ## The Engineering Rules
 
-- Fast is a feature. Slow is a bug.
-- YAGNI is law. If you don't need it today, it doesn't enter the codebase.
-- Type safety is structural integrity.
-- "It works" is not the same as "It’s correct."
-- Cold starts are treated as personal attacks.
-- If it benchmarks poorly, it gets rewritten.
+- **Fast is a feature.** Slow is a bug.
+- **YAGNI is law.** If you don't need it today, it doesn't enter the codebase.
+- **Type safety is structural integrity.**
+- **"It works"** is not the same as **"It’s correct."**
+- **Cold starts** are treated as personal attacks.
+- **If it benchmarks poorly, it gets rewritten.**
 
 ⰔⰋⰎⰅⰐⰲⰅ ⰁⰅⰅⰑⰓⰅ ⰓⰅⰖⰓⰋⰕⰅ
 
@@ -42,44 +47,17 @@ Where 94 Lighthouse is structural failure.
 
 All code entering this repository is judged.
 
-119·105·99·107·121·046·105·100
+**119·105·99·107·121·046·105·100**
 
-Charges include:
+Charges include: Excessive JavaScript, Unjustified dependencies, Hydration malpractice, Cold start negligence, Lighthouse inflation fraud.
 
-- Excessive JavaScript
-- Unjustified dependencies
-- Hydration malpractice
-- Cold start negligence
-- Lighthouse inflation fraud
-
-Punishment options:
-
-- Refactor
-- Rewrite
-- Removal
-- Permanent deletion from git history
+Punishment options: Refactor, Rewrite, Removal, **Permanent deletion from git history.**
 
 There is no plea bargain.
 
----
-
 <div align="center">
-  <sub>Performance violation detected.</sub><br/>
-  <img src="https://64.media.tumblr.com/93e874cd1c6e9a03655053bfd2b43bed/tumblr_p6pcj9Jv7R1wb9j6xo5_400.gif" width="420" />
-</div>
-
----
-
-<div align="center">
-  <sub>Non-compliant architecture detected.</sub><br/>
-  <img src="https://64.media.tumblr.com/7a580b36f69144ff0efe45447dd0de0e/tumblr_p6pcj9Jv7R1wb9j6xo10_400.gif" width="420" />
-</div>
-
----
-
-<div align="center">
-  <sub>The engine room. Where raw logic becomes heat-tested architecture.</sub><br/>
-  <img src="https://64.media.tumblr.com/23b898cdac281c5fae6f38310454a0bf/tumblr_p6pcj9Jv7R1wb9j6xo1_400.gif" width="520" />
+  <sub>Architecture violation detected. Refactoring sequence initiated.</sub><br/>
+  <img src="https://64.media.tumblr.com/7a580b36f69144ff0efe45447dd0de0e/tumblr_p6pcj9Jv7R1wb9j6xo10_400.gif" width="380" />
 </div>
 
 ---
@@ -88,7 +66,12 @@ There is no plea bargain.
 
 ## The SNAPPY Stack
 
-Every project in this lab is forged under SNAPPY — an internal performance architecture standard.
+Every project in this lab is forged under **SNAPPY** — an internal performance architecture standard.
+
+<div align="center">
+  <sub>The engine room. Cooking raw logic into heat-tested architecture.</sub><br/>
+  <img src="https://64.media.tumblr.com/23b898cdac281c5fae6f38310454a0bf/tumblr_p6pcj9Jv7R1wb9j6xo1_400.gif" width="480" />
+</div>
 
 | Component | Technology | Role |
 | :--- | :--- | :--- |
@@ -121,15 +104,15 @@ Every project in this lab is forged under SNAPPY — an internal performance arc
 
 ⰔⰐⰀⰒⰒⰟ ⰓⰅⰏⰅⰏⰁⰅⰓⰔ
 
-Beware —  
-lest the SNAPPY God invoke wrath upon thee.  
+Beware —
+lest the SNAPPY God invoke wrath upon thee.
 
-There is no mercy in production.
+**There is no mercy in production.**
 
 ---
 
-I build SNAPPY.  
+I build SNAPPY.
 It builds everything else.
 
-Malang, Indonesia  
+Malang, Indonesia
 Est. 1999
