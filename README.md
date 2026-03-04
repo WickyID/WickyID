@@ -1,74 +1,119 @@
 <div align="center">
-  <h1>Hi, I'm Wicky 👋</h1>
-  <p><strong>SNAPPY Architect | Engineering High-Performance Systems</strong></p>
 
-  <p>
-    <a href="https://wicky.id">Portfolio</a> • 
-    <a href="https://wicky.id/snappy">SNAPPY Stack</a> • 
-    <a href="mailto:your-email@example.com">Contact</a>
-  </p>
+# Hi, I'm Wicky 👋
 
-  <br />
+## I build SNAPPY.  
+## It builds everything else.
 
-  <div align="center">
-    <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  </div>
+<br/>
+
+[Portfolio](https://wicky.id) • 
+[SNAPPY Stack](https://wicky.id/snappy) • 
+[Contact](mailto:your-email@example.com)
+
+<br/><br/>
+
+<!-- Identity Badges -->
+
+<img src="https://img.shields.io/badge/Architecture-SNAPPY-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System-Performance%20First-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Lighthouse-95%2B-16a34a?style=for-the-badge&logo=lighthouse&logoColor=white" />
+
+<br/><br/>
+
+<!-- Core Stack -->
+
+<img src="https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
 </div>
 
 ---
 
-### ⚡ The Philosophy
-**Full Stack Developer, '99-born. Based in Malang, Indonesia.** I don’t just deploy sites; I engineer the engines behind them. My philosophy is rooted in raw logic and bespoke architecture—if it isn't custom-built, it isn't reliable. By owning 100% of the codebase from the ground up, I ensure every line of code serves a purpose. No bloat, no shortcuts, just high-performance systems designed to last.
+## ⚡ Philosophy
+
+Full-Stack Systems Engineer. Born 1999. Based in Malang, Indonesia.
+
+I don’t ship templates.  
+I engineer systems.
+
+Every layer — frontend, backend, infrastructure — is deliberately designed for:
+
+- Measurable performance
+- Deterministic architecture
+- Long-term maintainability
+- Zero unnecessary complexity
+
+If it doesn’t benchmark well, it doesn’t ship.
 
 ---
 
-### 🚀 The SNAPPY Stack
-I am the creator and lead architect of the **SNAPPY Stack**, a precision-engineered starter template for developers who demand speed and reliability.
+## 🚀 SNAPPY
 
-- **S**upabase - Infrastructure, Postgres & S3 Storage.
-- **N**ext.js 15 - The Full-stack Hub (App Router).
-- **A**rk UI - Headless, accessible components.
-- **P**ayload CMS v3 - The Modern Content Engine.
-- **P**ostgreSQL - Atomic data integrity via Drizzle ORM.
-- **Y**AGNI - "You Ain't Gonna Need It" (Zero-bloat engineering).
+SNAPPY is my performance-first architecture blueprint.
 
-#### Why I build with SNAPPY:
-- **Unified APIs**: Payload CMS v3 runs natively within the Next.js App Router.
-- **Tailwind v4 & Ark UI**: Styling with the latest utility-first engine and headless logic.
-- **Zero-Config CLI**: I use a private `create-snappy` CLI to bootstrap projects instantly with verified configurations.
+**S** — Supabase (Postgres, Auth, Storage, Edge)  
+**N** — Next.js 16 (App Router as full-stack core)  
+**A** — Ark UI (headless accessibility primitives)  
+**P** — Payload CMS v3 (embedded content engine)  
+**P** — PostgreSQL + Drizzle ORM (strict data integrity)  
+**Y** — YAGNI (zero-bloat enforcement)
 
----
-
-### 🛠 Technical Arsenal
-
-**Frontend & Performance**
-- Next.js 15, Svelte 5 (Runes), Astro, Tailwind CSS, TypeScript.
-
-**Backend & Infrastructure**
-- Go (Fiber/Echo), Node.js, PostgreSQL, Redis, Supabase Edge Functions.
-
-**Desktop & Overlays**
-- C# Avalonia UI, Tauri.
+SNAPPY isn’t a starter template.  
+It’s a controlled engineering environment.
 
 ---
 
-### 📂 Featured Projects
-- **[wicky.id](https://wicky.id)** - My modern portfolio and the official home of the SNAPPY stack documentation.
-- **[gassanov.id](https://gassanov.id)** - A full-scale e-commerce engine built on Go and the SNAPPY methodology.
+## 📈 Performance Standard
+
+Every production system I ship targets:
+
+- ⚡ 95+ Lighthouse Performance
+- 🧠 End-to-end type safety
+- 📦 Minimal dependencies
+- 🔒 Infrastructure ownership
+- 🚀 Fast cold starts & edge-ready design
+
+Performance is not an afterthought.  
+It’s the baseline.
 
 ---
 
-### 🛡 Attribution & Licensing
-I believe in building a transparent web. All projects deployed using the **SNAPPY** architecture carry a "Verified SNAPPY Build" fingerprint. 
+## 🛠 Technical Focus
 
-- **Copyright Enforcement**: Attribution in the footer and the `X-Powered-By: SNAPPY` header are mandatory for all non-commercial implementations.
-- **Standards**: If it’s SNAPPY, it’s built to a higher standard.
+### Frontend & Performance
+Next.js 16 • Svelte 5 (Runes) • Astro • Tailwind CSS • TypeScript
+
+### Backend & Infrastructure
+Go (Fiber, Echo) • Node.js • PostgreSQL • Redis • Supabase Edge Functions
+
+### Desktop & Systems
+C# (Avalonia UI) • Tauri
+
+---
+
+## 📂 Selected Work
+
+**wicky.id**  
+Modern portfolio and official SNAPPY documentation hub.
+
+**gassanov.id**  
+Production-grade e-commerce engine built with Go and SNAPPY architecture principles.
+
+---
+
+## 📊 Engineering Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dark" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+</p>
 
 ---
 
 <div align="center">
-  <p><i>Built with zero bloat and 100% intent.</i></p>
+  <sub>Engineered with intent. Built to last.</sub>
 </div>
