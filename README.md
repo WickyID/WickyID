@@ -1,123 +1,91 @@
 <div align="center">
 
-# Hi, I'm Wicky 👋
+# WickyID
 
-## I build SNAPPY.  
-## It builds everything else.
+Production is temporary. Architecture is permanent.
+
+<sub>Systems > Frameworks</sub>
 
 <br/>
 
-[Portfolio](https://wicky.id) • 
-[SNAPPY Stack](https://wicky.id/snappy) • 
-[Contact](mailto:your-email@example.com)
-
-<br/><br/>
-
-<!-- Identity Badges -->
-
-<img src="https://img.shields.io/badge/Architecture-SNAPPY-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System-Performance%20First-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Lighthouse-95%2B-16a34a?style=for-the-badge&logo=lighthouse&logoColor=white" />
-
-<br/><br/>
-
-<!-- Core Stack -->
-
-<img src="https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+[![Built With SNAPPY](https://img.shields.io/badge/Built%20With-SNAPPY-0b0f19?style=for-the-badge)](https://wicky.id/snappy)
+[![Lighthouse 100](https://img.shields.io/badge/Lighthouse-100-15803d?style=for-the-badge&logo=lighthouse&logoColor=white)](https://wicky.id)
+[![Next.js 16](https://img.shields.io/badge/Next.js-16%20Ready-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
 
 </div>
 
 ---
 
-## ⚡ Philosophy
+### This is not my portfolio.
+That lives at https://wicky.id.
 
-Full-Stack Systems Engineer. Born 1999. Based in Malang, Indonesia.
+This is the lab.
 
-I don’t ship templates.  
-I engineer systems.
-
-Every layer — frontend, backend, infrastructure — is deliberately designed for:
-
-- Measurable performance
-- Deterministic architecture
-- Long-term maintainability
-- Zero unnecessary complexity
-
-If it doesn’t benchmark well, it doesn’t ship.
+Where systems are profiled before they are praised.  
+Where dependencies must justify their existence.  
+Where a 94 Lighthouse score is considered a design flaw.  
 
 ---
 
-## 🚀 SNAPPY
-
-SNAPPY is my performance-first architecture blueprint.
-
-**S** — Supabase (Postgres, Auth, Storage, Edge)  
-**N** — Next.js 16 (App Router as full-stack core)  
-**A** — Ark UI (headless accessibility primitives)  
-**P** — Payload CMS v3 (embedded content engine)  
-**P** — PostgreSQL + Drizzle ORM (strict data integrity)  
-**Y** — YAGNI (zero-bloat enforcement)
-
-SNAPPY isn’t a starter template.  
-It’s a controlled engineering environment.
+<div align="center">
+  <img src="https://64.media.tumblr.com/55a40f314da2c2b09e943b4f46edb91d/tumblr_p6pcj9Jv7R1wb9j6xo4_400.gif" />
+</div>
 
 ---
 
-## 📈 Performance Standard
+## The Engineering Rules
 
-Every production system I ship targets:
-
-- ⚡ 95+ Lighthouse Performance
-- 🧠 End-to-end type safety
-- 📦 Minimal dependencies
-- 🔒 Infrastructure ownership
-- 🚀 Fast cold starts & edge-ready design
-
-Performance is not an afterthought.  
-It’s the baseline.
+- Fast is a feature. Slow is a bug.
+- YAGNI is law. If you don’t need it today, it doesn’t enter the codebase.
+- Type safety is not optional. It is structural integrity.
+- “It works” is not the same as “It’s correct.”
+- Cold starts are treated as personal attacks.
+- If it benchmarks poorly, it gets rewritten.
 
 ---
 
-## 🛠 Technical Focus
+## The SNAPPY Stack
 
-### Frontend & Performance
-Next.js 16 • Svelte 5 (Runes) • Astro • Tailwind CSS • TypeScript
+Every project in this lab is forged using SNAPPY — my internal performance standard for anti-bloat systems.
 
-### Backend & Infrastructure
-Go (Fiber, Echo) • Node.js • PostgreSQL • Redis • Supabase Edge Functions
+| Component | Technology | Role |
+| :--- | :--- | :--- |
+| **S** | Supabase | Infrastructure & atomic storage |
+| **N** | Next.js 16 | Full-stack runtime core |
+| **A** | Ark UI | Headless performance-first logic |
+| **P** | Payload v3 | Embedded content engine |
+| **P** | PostgreSQL | Industrial-grade data integrity |
+| **Y** | YAGNI | Zero-bloat enforcement mechanism |
 
-### Desktop & Systems
-C# (Avalonia UI) • Tauri
-
----
-
-## 📂 Selected Work
-
-**wicky.id**  
-Modern portfolio and official SNAPPY documentation hub.
-
-**gassanov.id**  
-Production-grade e-commerce engine built with Go and SNAPPY architecture principles.
+SNAPPY is not a template.  
+It is a controlled engineering environment.
 
 ---
 
+## Current Research & Focus
+
+- Next.js 16 and concurrent React runtime patterns
+- Reducing client-side JavaScript below ego thresholds
+- Go microservices for compute isolation
+- Drizzle ORM query plan optimization (<10ms targets)
+- Edge-first architecture with deterministic builds
+- Making fast systems faster for no socially acceptable reason
+
 ---
 
-## 📊 Engineering Activity
+## The Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WickyID&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WickyID&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WickyID&theme=github-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
 <div align="center">
-  <sub>Engineered with intent. Built to last.</sub>
+
+I build SNAPPY. It builds everything else.
+
+Malang, Indonesia  
+Est. 1999
+
 </div>
