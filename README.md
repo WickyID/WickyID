@@ -1,9 +1,6 @@
-<div align="center">
-
 # WickyID
 
-Production is temporary. Architecture is permanent.
-
+Production is temporary. Architecture is permanent.  
 Systems > Frameworks
 
 <br/>
@@ -11,8 +8,6 @@ Systems > Frameworks
 [![Built With SNAPPY](https://img.shields.io/badge/Built%20With-SNAPPY-0f172a?style=for-the-badge)](https://wicky.id/snappy)
 [![Lighthouse 100](https://img.shields.io/badge/Lighthouse-100-16a34a?style=for-the-badge&logo=lighthouse&logoColor=white)](https://wicky.id)
 [![Next.js 16](https://img.shields.io/badge/Next.js-16%20Ready-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
-
-</div>
 
 ---
 
@@ -24,14 +19,9 @@ This is the lab.
 
 Where systems are profiled before they are praised.  
 Where dependencies must justify their existence.  
-Where a 94 Lighthouse score is considered structural failure.
+Where 94 Lighthouse is structural failure.
 
----
-
-<div align="center">
-  <sub>Performance violation detected.</sub><br/>
-  <img src="https://64.media.tumblr.com/93e874cd1c6e9a03655053bfd2b43bed/tumblr_p6pcj9Jv7R1wb9j6xo5_400.gif" width="420" />
-</div>
+ⰐⰑ ⰋⰐⰕⰓⰖⰔⰋⰑⰐ
 
 ---
 
@@ -39,16 +29,20 @@ Where a 94 Lighthouse score is considered structural failure.
 
 - Fast is a feature. Slow is a bug.
 - YAGNI is law. If you don't need it today, it doesn't enter the codebase.
-- Type safety is not optional. It is structural integrity.
+- Type safety is structural integrity.
 - "It works" is not the same as "It’s correct."
 - Cold starts are treated as personal attacks.
 - If it benchmarks poorly, it gets rewritten.
+
+ⰔⰋⰎⰅⰐⰲⰅ ⰁⰅⰅⰑⰓⰅ ⰓⰅⰖⰓⰋⰕⰅ
 
 ---
 
 ## The Performance Tribunal
 
 All code entering this repository is judged.
+
+119·105·99·107·121·046·105·100
 
 Charges include:
 
@@ -70,6 +64,13 @@ There is no plea bargain.
 ---
 
 <div align="center">
+  <sub>Performance violation detected.</sub><br/>
+  <img src="https://64.media.tumblr.com/93e874cd1c6e9a03655053bfd2b43bed/tumblr_p6pcj9Jv7R1wb9j6xo5_400.gif" width="420" />
+</div>
+
+---
+
+<div align="center">
   <sub>Non-compliant architecture detected.</sub><br/>
   <img src="https://64.media.tumblr.com/7a580b36f69144ff0efe45447dd0de0e/tumblr_p6pcj9Jv7R1wb9j6xo10_400.gif" width="420" />
 </div>
@@ -83,9 +84,11 @@ There is no plea bargain.
 
 ---
 
+ⰀⰓⰘⰉⰕⰅⰍⰕⰖⰓⰀ ≠ ⰒⰅⰀⰕⰖⰓⰅⰔ
+
 ## The SNAPPY Stack
 
-Every project in this lab is forged using SNAPPY — my internal anti-bloat performance doctrine.
+Every project in this lab is forged under SNAPPY — an internal performance architecture standard.
 
 | Component | Technology | Role |
 | :--- | :--- | :--- |
@@ -116,10 +119,17 @@ Every project in this lab is forged using SNAPPY — my internal anti-bloat perf
 
 ---
 
-<div align="center">
-  I build SNAPPY. It builds everything else.
-  <br/><br/>
-  Malang, Indonesia
-  <br/>
-  Est. 1999
-</div>
+ⰔⰐⰀⰒⰒⰟ ⰓⰅⰏⰅⰏⰁⰅⰓⰔ
+
+Beware —  
+lest the SNAPPY God invoke wrath upon thee.  
+
+There is no mercy in production.
+
+---
+
+I build SNAPPY.  
+It builds everything else.
+
+Malang, Indonesia  
+Est. 1999
